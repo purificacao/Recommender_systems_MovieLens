@@ -23,6 +23,6 @@ Aqui, implementaremos FC baseada em modelo, fazendo uso de decomposição em val
 ## Dados utilizados
 
 
-Faremos uso do dataset  [MovieLens](http://files.grouplens.org/datasets/movielens/ml-100k.zip), composto por 100 mil filmes, com avaliações de 944 usuários e uma seleção de 1682 filmes.
+Faremos uso do dataset  [MovieLens](http://files.grouplens.org/datasets/movielens/), composto por 100 mil filmes, com avaliações de 944 usuários e uma seleção de 1682 filmes.
 
-
+[GitHub Pages](https://pages.github.com/).
